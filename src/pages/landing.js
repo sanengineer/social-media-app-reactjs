@@ -5,8 +5,8 @@ import React, { Component } from "react";
 // import { SuggestedAccounts } from "../components/suggested-accounts";
 
 //Dummy Data
-import UsersDataDummyServices from "../json/feeds_users_public_access";
-import SuggestedUsers from "../json/suggested_users";
+// import UsersDataDummyServices from "../json/feeds_users_public_access";
+// import SuggestedUsers from "../json/suggested_users";
 
 export default class Landing extends Component {
   // constructor(props) {
